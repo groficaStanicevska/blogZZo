@@ -1,4 +1,5 @@
-baseURL = "http://example.org"
+baseURL = "https://groficastanicevska.github.io/"
+publishDir = "docs"
 title = "Hugo Zzo Theme"
 theme = "zzo"
 
