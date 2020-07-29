@@ -3,58 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://groficastanicevska.github.io/en/ko/categories/</loc>
+    <loc>//groficastanicevska.github.io/ko/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://groficastanicevska.github.io/en/en/categories/"
+                href="//groficastanicevska.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://groficastanicevska.github.io/en/ko/categories/"
+                href="//groficastanicevska.github.io/ko/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://groficastanicevska.github.io/en/ko/</loc>
+    <loc>//groficastanicevska.github.io/ko/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://groficastanicevska.github.io/en/en/"
+                href="//groficastanicevska.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://groficastanicevska.github.io/en/ko/"
+                href="//groficastanicevska.github.io/ko/"
                 />
   </url>
   
   <url>
-    <loc>https://groficastanicevska.github.io/en/ko/series/</loc>
+    <loc>//groficastanicevska.github.io/ko/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://groficastanicevska.github.io/en/en/series/"
+                href="//groficastanicevska.github.io/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://groficastanicevska.github.io/en/ko/series/"
+                href="//groficastanicevska.github.io/ko/series/"
                 />
   </url>
   
   <url>
-    <loc>https://groficastanicevska.github.io/en/ko/tags/</loc>
+    <loc>//groficastanicevska.github.io/ko/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://groficastanicevska.github.io/en/en/tags/"
+                href="//groficastanicevska.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://groficastanicevska.github.io/en/ko/tags/"
+                href="//groficastanicevska.github.io/ko/tags/"
                 />
   </url>
   
