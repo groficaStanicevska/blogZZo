@@ -1,4 +1,4 @@
-baseURL = "https://groficastanicevska.github.io/"
+baseURL = "https://groficastanicevska.github.io"
 publishDir = "docs"
 title = "Hugo Zzo Theme"
 theme = "zzo"
