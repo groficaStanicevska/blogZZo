@@ -3,6 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>//groficastanicevska.github.io/blogZZo/en/post/first/</loc>
+    <lastmod>2020-07-29T13:15:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//groficastanicevska.github.io/blogZZo/en/</loc>
+    <lastmod>2020-07-29T13:15:51+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="//groficastanicevska.github.io/blogZZo/ko/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//groficastanicevska.github.io/blogZZo/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>//groficastanicevska.github.io/blogZZo/en/post/</loc>
+    <lastmod>2020-07-29T13:15:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//groficastanicevska.github.io/blogZZo/en/about/</loc>
+    <lastmod>2020-07-29T13:15:45+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//groficastanicevska.github.io/blogZZo/en/about/info/</loc>
+    <lastmod>2020-07-29T13:15:45+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>//groficastanicevska.github.io/blogZZo/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -13,20 +48,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="//groficastanicevska.github.io/blogZZo/en/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>//groficastanicevska.github.io/blogZZo/en/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="//groficastanicevska.github.io/blogZZo/ko/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//groficastanicevska.github.io/blogZZo/en/"
                 />
   </url>
   
